@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class HelloWorld{
+public class VowelCount{
+  
   public static void main(String []args){
   Scanner reader = new Scanner(System.in); // Reading from System.in
   System.out.println("Enter a word or sentance: ");
