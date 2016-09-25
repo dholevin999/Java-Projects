@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.Random;
 
-public class HelloWorld{
+public class PasswordGenerator{
   public static void main(String []args){
   Scanner reader = new Scanner(System.in);
   System.out.println("Enter the length of your password:");
