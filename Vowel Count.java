@@ -29,6 +29,7 @@ public class VowelCount{
   }
   }
   int totalCount = aCount + eCount + iCount + oCount + uCount + yCount;
+    
   System.out.println("There are " + totalCount + " total vowels in the word.");
   System.out.println(aCount + " a's, " + eCount + " e's, " + iCount + " i's, " + oCount + " o's, " + uCount + " u's, and " + yCount + " y's");
 
