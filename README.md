@@ -1,2 +1,2 @@
 # Java-Projects
-Java projects
+These are some simple Java functions
