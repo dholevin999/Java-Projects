@@ -8,12 +8,12 @@ public class PigLatin{
   String pigWord = "";
 
   for (int i = 1; i < word.length(); i++) {
-  pigWord += word.charAt(i);
+    pigWord += word.charAt(i);
   }
 
-  pigWord = pigWord + word.charAt(0) + "ay";
+    pigWord = pigWord + word.charAt(0) + "ay";
 
-  System.out.println(pigWord);
+    System.out.println(pigWord);
   }
 
 }
